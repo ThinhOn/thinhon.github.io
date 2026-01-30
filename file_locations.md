@@ -1,6 +1,4 @@
-## Profile header (sidebar)
-_config.yml
-
-
-## All tabs
-_data/navigation.yml
+- Sidebar: _config.yml
+- Control tabs: _data/navigation.yml
+- Main page: _pages/about.md
+- 
